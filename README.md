@@ -1,6 +1,7 @@
 # Machine-Learning-DeCal
 
-31 January 2018
+31 January 2018\\
+
 This repository will contain the problem sets and notes from the Machine Learning course I am currently taking!  I am super excited to see what's in store for me as the semester comes into full swing and we really get deeper into the topics of Machine Learning!
 
 Synopsis:
